@@ -1,0 +1,10 @@
+# Campaigns
+
+Campaign-specific content — session logs, quests, and planning notes. Each campaign gets its own directory.
+
+To start a new campaign, copy the `_campaign-boilerplate/` directory, rename it, and update the `llms.txt` inside.
+
+World content (characters, locations, factions, etc.) lives in `world/`, not here. Campaigns reference world entries via wiki-links.
+
+## Campaigns
+(none yet — copy _campaign-boilerplate/ to start one)

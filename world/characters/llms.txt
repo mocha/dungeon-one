@@ -1,0 +1,15 @@
+# Characters
+
+All people in the world — player characters, NPCs, and villains.
+
+## Schema
+- type: character
+- role: pc | npc | villain
+- name, player (blank = NPC), race, class
+- location: wiki-link to current location
+- factions: list of wiki-links
+- status: alive | dead | missing | unknown
+- tags: freeform list
+
+## Contents
+(empty — world not yet created)

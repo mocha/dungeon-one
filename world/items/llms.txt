@@ -1,0 +1,13 @@
+# Items
+
+Weapons, armor, potions, artifacts, wondrous items, trinkets, and mundane objects of note.
+
+## Schema
+- type: item
+- name, category, rarity
+- owner: wiki-link to character
+- location: wiki-link to location
+- tags: freeform list
+
+## Contents
+(empty — world not yet created)

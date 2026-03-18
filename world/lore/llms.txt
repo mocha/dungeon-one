@@ -1,0 +1,15 @@
+# Lore
+
+History, legends, prophecies, cultural practices, magic systems, custom rules, and anything else that's true about the world but isn't a person, place, thing, or group.
+
+This is the catch-all for worldbuilding content. If it doesn't fit elsewhere, it's lore.
+
+## Schema
+- type: lore
+- name, category: history | legend | prophecy | culture | magic | religion | custom
+- related_locations: list of wiki-links
+- related_characters: list of wiki-links
+- tags: freeform list
+
+## Contents
+(empty — world not yet created)

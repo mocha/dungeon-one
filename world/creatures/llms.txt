@@ -1,0 +1,12 @@
+# Creatures
+
+Monsters, beasts, and beings that populate the world.
+
+## Schema
+- type: creature
+- name, creature_type, size
+- habitat: list of wiki-links to locations
+- tags: freeform list
+
+## Contents
+(empty — world not yet created)

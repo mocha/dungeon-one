@@ -1,0 +1,18 @@
+# [Campaign Name]
+
+<!-- Replace this with a brief description of the campaign:
+     what's the premise, who are the player characters,
+     what's the central conflict or mystery? -->
+
+## Party
+<!-- List the PCs with wiki-links: -->
+<!-- - [[Character Name]] — played by Player Name -->
+
+## Current State
+<!-- Where is the party? What are they doing? What's the active quest? -->
+<!-- Update this after each session. -->
+
+## Directories
+- `sessions/` — Session logs in chronological order
+- `quests/` — Active and completed storylines
+- `notes/` — Prep, brainstorming, and planning

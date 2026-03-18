@@ -1,0 +1,16 @@
+# Locations
+
+Every place in the world, at any scale. Continents, cities, buildings, rooms.
+
+Hierarchy is expressed through the `parent` field, not folder nesting. A room's parent is a building, a building's parent is a district, and so on. Adjacency is expressed through `connections`.
+
+## Schema
+- type: location
+- name, parent: wiki-link to containing location
+- connections: list of wiki-links to adjacent/reachable locations
+- ruler: wiki-link to character
+- factions: list of wiki-links
+- tags: freeform list
+
+## Contents
+(empty — world not yet created)

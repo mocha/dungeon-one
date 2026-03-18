@@ -1,0 +1,16 @@
+# World
+
+The persistent lore bible for this setting. Everything that exists in the fictional world lives here, organized by entity type. Content in this directory persists across campaigns.
+
+## Directories
+
+- `characters/` — PCs, NPCs, and villains. All people in the world.
+- `locations/` — Places at any scale. Hierarchy via `parent` field, adjacency via `connections`.
+- `factions/` — Organizations, guilds, cults, armies, houses.
+- `creatures/` — Monsters, beasts, and beings.
+- `items/` — Weapons, artifacts, potions, trinkets.
+- `lore/` — History, legends, culture, magic systems, prophecies, custom rules.
+- `deities/` — Gods, powers, and cosmic forces.
+
+## Navigation
+Read the `llms.txt` in each subdirectory for contents and schema reference. See `/CLAUDE.md` for full frontmatter schemas and conventions.

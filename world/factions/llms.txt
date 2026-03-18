@@ -1,0 +1,15 @@
+# Factions
+
+Organizations, guilds, cults, armies, noble houses, thieves' networks — any group with shared goals.
+
+Members are tracked through character entries that list the faction in their `factions` field.
+
+## Schema
+- type: faction
+- name, alignment
+- headquarters: wiki-link to location
+- leader: wiki-link to character
+- tags: freeform list
+
+## Contents
+(empty — world not yet created)

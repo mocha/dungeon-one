@@ -1,0 +1,14 @@
+# Quests
+
+Storylines and objectives for this campaign. Active, completed, and failed quests.
+
+## Schema
+- type: quest
+- campaign: wiki-link to campaign
+- status: active | completed | failed | abandoned
+- quest_giver: wiki-link to character
+- locations: list of wiki-links
+- tags: freeform list
+
+## Quests
+(none yet)

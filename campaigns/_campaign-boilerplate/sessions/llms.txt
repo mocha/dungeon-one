@@ -1,0 +1,16 @@
+# Sessions
+
+Chronological session logs for this campaign. Each session gets its own file.
+
+File naming: `Session NNN - Title.md`
+
+## Schema
+- type: session
+- campaign: wiki-link to campaign
+- session_number, date_played (YYYY-MM-DD)
+- locations: list of wiki-links
+- npcs: list of wiki-links
+- tags: freeform list
+
+## Sessions
+(none yet)

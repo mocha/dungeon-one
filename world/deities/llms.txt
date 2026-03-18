@@ -1,0 +1,12 @@
+# Deities
+
+Gods, spirits, cosmic forces, patron saints, and other divine or supernatural powers.
+
+## Schema
+- type: deity
+- name, domains (list), alignment
+- followers: list of wiki-links to factions
+- tags: freeform list
+
+## Contents
+(empty — world not yet created)

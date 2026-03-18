@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "e59270f55522b1c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f92769b5a556ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5ec6ddc011b1772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "world/creatures/_boilerplate.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_boilerplate"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e159af913e51b2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "124c3678c6552545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16916092343fb74c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f2e639ad1ef32f39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "643c9c4c419979cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbb6a98552d4b48b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce90726714ed95bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e130be6862d66c09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "world/creatures/_boilerplate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for _boilerplate"
+            }
+          },
+          {
+            "id": "7bbdd1161eac7321",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "world/creatures/_boilerplate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from _boilerplate"
+            }
+          },
+          {
+            "id": "c0107e262e6fc554",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9ee77ced24c9b097",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c07f0cc1c26d15de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "world/creatures/_boilerplate.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of _boilerplate"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f5ec6ddc011b1772",
+  "lastOpenFiles": [
+    "world/characters/_boilerplate.md",
+    "README.md",
+    "Untitled",
+    "hi!.md",
+    "log.md",
+    "_templates/quest.md",
+    "_templates/session.md",
+    "_templates/deity.md",
+    "_templates/lore.md",
+    "_templates/item.md",
+    "_templates/creature.md",
+    "_templates/faction.md",
+    "_templates/location.md",
+    "_templates/character.md",
+    "campaigns/_campaign-boilerplate/notes/_boilerplate.md",
+    "campaigns/_campaign-boilerplate/quests/_boilerplate.md",
+    "campaigns/_campaign-boilerplate/sessions/_boilerplate.md",
+    "world/deities/_boilerplate.md",
+    "world/lore/_boilerplate.md",
+    "world/items/_boilerplate.md",
+    "world/creatures/_boilerplate.md",
+    "world/factions/_boilerplate.md",
+    "world/locations/_boilerplate.md",
+    "campaigns/_campaign-boilerplate/quests/llms.txt",
+    "campaigns/_campaign-boilerplate/sessions/llms.txt",
+    "campaigns/_campaign-boilerplate/llms.txt",
+    "campaigns/llms.txt",
+    "world/deities/llms.txt",
+    "world/lore/llms.txt",
+    "world/items/llms.txt",
+    "world/creatures/llms.txt",
+    "world/factions/llms.txt",
+    "CLAUDE.md"
+  ]
+}
